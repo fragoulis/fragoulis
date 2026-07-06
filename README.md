@@ -8,19 +8,6 @@ I focus on **Go**, **Linux**, **cloud infrastructure**, **automation**, and **re
 
 ---
 
-I'm always interested in:
-
-- Backend Engineering
-- Platform Engineering
-- Site Reliability / Infrastructure
-- Technical Leadership
-- Developer Experience
-- AI-native Developer Workflows
-
-I enjoy work where the hard part is not just writing code, but making the system understandable, reliable, maintainable and useful to the people building on top of it.
-
----
-
 ## What I bring
 
 - **Backend & platform depth** — Go, Ruby, C++, Shell, SQL, Linux, Containers.
@@ -29,19 +16,6 @@ I enjoy work where the hard part is not just writing code, but making the system
 - **Technical leadership** — architecture guidance, code quality, team enablement, delivery practices, and system design direction.
 - **Developer experience focus** — CI/CD, internal tooling, SDKs, documentation, RFCs, reusable patterns, and reducing delivery friction.
 - **AI-assisted engineering** — applying agentic development practices to improve productivity while keeping quality high.
-
----
-
-## Toolbox
-
-**Languages**
-Go · Ruby · C++ · Shell · SQL
-
-**Infrastructure & platforms**
-Linux · Containers · Terraform · GCP · AWS · Git · CI/CD
-
-**Focus areas**
-Platform Engineering · Distributed Systems · Observability · Reliability · Infrastructure Automation · Developer Experience · Technical Leadership
 
 ---
 
